@@ -1,7 +1,11 @@
 .carousel-item {
-  height: 500px;
+  height: max-content;
 }
 
 section {
-  padding-top: 3rem;
+  padding-top: 30px;
+}
+
+body {
+  background-color: rgb(39, 3, 80);
 }
