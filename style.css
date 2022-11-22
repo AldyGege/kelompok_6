@@ -5,7 +5,14 @@
 section {
   padding-top: 30px;
 }
-
-body {
+body{
+  background-color: rgb(39, 3, 80);
+  
+}
+#game {
+  background-color: rgb(39, 3, 80);
+  
+}
+#y {
   background-color: rgb(39, 3, 80);
 }
